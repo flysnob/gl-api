@@ -1,0 +1,2 @@
+class ConsolidatingEntriesController < ApplicationController
+end

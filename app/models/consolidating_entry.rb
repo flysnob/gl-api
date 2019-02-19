@@ -1,0 +1,2 @@
+class ConsolidatingEntry < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class EntryLine < ApplicationRecord
+end

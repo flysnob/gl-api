@@ -1,0 +1,2 @@
+class EntryLineController < ApplicationController
+end
